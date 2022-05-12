@@ -12,16 +12,18 @@ Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
 Please list the urls for the APIs you used:
+http://names.drycodes.com/1?nameOptions=boy_names
+https://api.genderize.io?name=  A name would be added here
 
-Summary of Program:
+Summary of Program: This program uses a name API that generates a random first and last name. The name class returns only the first name and that first name is used in the API for the gender API that produces facts such as gender and popularity of that given name.
 
-Most Challenging topic in the course:
+Most Challenging topic in the course: Probably the files topic. I spent the most time on that topic compared to the other ones.
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ N/A
 
 ## REFERENCES:
- < List any outside resources used >
+ N/A
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ N/A
